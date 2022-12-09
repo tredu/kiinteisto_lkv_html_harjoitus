@@ -1,2 +1,2 @@
-# kiinteisto_lkv_html_harjoitus
-HTML Harjoitus
+# Kiinteistö LKV HTML Harjoitus
+Materiaalit harjoitukseen
